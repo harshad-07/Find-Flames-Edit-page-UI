@@ -1,9 +1,8 @@
 # find_flames_edit_profile
 
-![Screenshot_1691159033](https://github.com/harshad-07/Find-Flames-Edit-page-UI/assets/87608273/2a46832f-3dc2-4d2b-8389-97b9ffc574a7) ![Screenshot_1691159144](https://github.com/harshad-07/Find-Flames-Edit-page-UI/assets/87608273/c3efc436-8fcd-4a9e-bfab-73eae23851a7)
-
-![Screenshot_1691159039](https://github.com/harshad-07/Find-Flames-Edit-page-UI/assets/87608273/41091669-c6db-48f8-b70c-20a7d1d52ece) ![Screenshot_1691159047](https://github.com/harshad-07/Find-Flames-Edit-page-UI/assets/87608273/04b18ced-e8ae-4e96-845e-b2f9b06c81a6)
-
+![Screenshot1](https://github.com/harshad-07/Find-Flames-Edit-page-UI/assets/87608273/59aecdc1-9853-4410-99ec-8ee2c0a0a046)
+![Screenshot2](https://github.com/harshad-07/Find-Flames-Edit-page-UI/assets/87608273/9e91181b-5bee-4e87-94f1-eb710726d239)
+![Screenshot3](https://github.com/harshad-07/Find-Flames-Edit-page-UI/assets/87608273/6512cb49-cbb1-4e27-adc5-b65956813714)
 
 
 ## Getting Started
